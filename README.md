@@ -12,7 +12,6 @@ const hanafi = {
   location: "Indonesia",
   status: "Student & Developer",
   focus: ["PHP", "JavaScript", "UI/UX", "Frontend", "Python"],
-  currentProjects: ["Bhinneka.space", "ASSEM"],
   philosophy: "Minimalistic & Fun",
   openTo: ["Collaboration", "Learning", "New Challenges"]
 };
@@ -50,15 +49,15 @@ const hanafi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FallenTeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallenTeen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenTeen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎨 Beyond Code
@@ -79,7 +78,7 @@ const hanafi = {
 ## 📈 Learning Journey
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FallenTeen&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -88,8 +87,8 @@ const hanafi = {
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dansttyn_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hanafi.dana.bastyan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hdb4200/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlamingvlaming0@gmail.com)
 
 </div>
 
@@ -103,15 +102,15 @@ const hanafi = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FallenTeen&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>💭 "Pain Is Inevitable, but suffering is optional"</h3>
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/FallenTeen">Hanafi Dana Bastyan</a> with ❤️</sub>
+  <sub>⭐ From <a href="https://github.com/FallenTeen">Hanafi Dana Bastyan</a> with ❤</sub>
 </div>
