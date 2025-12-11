@@ -42,10 +42,6 @@ Crafting digital experiences from the shadows. Building web applications with pr
 
 </div>
 
-## Statistics
-
-![](https://github-profile-trophy.vercel.app/?username=FallenTeen&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ## Beyond the Code
 
 **Musical Instruments** - Crafting sounds in solitude  
