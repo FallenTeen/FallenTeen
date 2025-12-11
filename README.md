@@ -44,26 +44,9 @@ Crafting digital experiences from the shadows. Building web applications with pr
 
 ## Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallenTeen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallenTeen&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenTeen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=FallenTeen&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## Beyond the Code
-
-```
-    Music           Night Trails        Art
-   ┌─────┐           ┌─────┐          ┌─────┐
-     ♫                 ▲                ✎
-   └─────┘           └─────┘          └─────┘
-```
 
 **Musical Instruments** - Crafting sounds in solitude  
 **Night Hiking** - Solo journeys under starless skies  
