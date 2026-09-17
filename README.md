@@ -1,82 +1,90 @@
-# Hanafi Dana Bastyan
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=666666&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+in+Darkness;Forged+in+Metal" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Code+in+Darkness%2C+Forged+in+Metal;Simplicity+Through+Darkness" alt="Typing SVG" />
+
 </div>
 
-## About
+<h1 align="center">Hanafi Dana Bastyan</h1>
+<p align="center"><i>"Pain is inevitable, suffering is optional."</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FallenTeen&color=black&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-black?style=flat-square" alt="Location" />
+</p>
+
+---
+
+### About
 
 ```typescript
 const developer = {
   name: "Hanafi Dana Bastyan",
   location: "Indonesia",
-  status: "Architect of Digital Void",
+  role: "Architect of Digital Void",
   arsenal: ["PHP", "JavaScript", "UI/UX", "Frontend", "Python"],
+  currentlyExploring: "Python, backend architecture",
   creed: "Simplicity through darkness",
-  seeking: ["Collaboration", "Knowledge", "Challenges"]
+  seeking: ["Collaboration", "Knowledge", "Challenges"],
 };
 ```
 
-Crafting digital experiences from the shadows. Building web applications with precision and minimal noise. Currently exploring the depths of Python while maintaining mastery over frontend territories.
+Crafting digital experiences from the shadows — building web applications with precision and minimal noise. Currently deepening my Python skills while keeping a firm grip on frontend territory.
 
-## Arsenal
+---
+
+### Arsenal
 
 <div align="center">
-
-### Core Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Design Forge
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
+  <img src="https://skillicons.dev/icons?i=php,js,py,html,css,react,laravel,nodejs,bootstrap,figma,xd&theme=dark" alt="Skill Icons" />
 </div>
 
-## Statistics
+---
+
+### Currently
+
+- 🔭 Working on: sharpening backend fundamentals with **Python**
+- 🌱 Learning: clean architecture & API design
+- 🤝 Open to: collaboration, freelance work, and interesting problems
+- 💬 Ask me about: PHP/Laravel, React, or UI/UX in Figma
+
+---
+
+### Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallenTeen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallenTeen&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FallenTeen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=FallenTeen&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenTeen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
-## Beyond the Code
-
-```
-    Music           Night Trails        Art
-   ┌─────┐           ┌─────┐          ┌─────┐
-     ♫                 ▲                ✎
-   └─────┘           └─────┘          └─────┘
-```
-
-**Musical Instruments** - Crafting sounds in solitude  
-**Night Hiking** - Solo journeys under starless skies  
-**Anime Drawing** - Sketching characters from void  
-**Minimalist Design** - Maximum impact, minimum noise
-
-## Activity
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FallenTeen&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
-## Contact
+---
+
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FallenTeen&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</div>
+
+---
+
+### Beyond the Code
+
+| 🎵 Music | 🌙 Night Trails | ✎ Art |
+|:---:|:---:|:---:|
+| Crafting sounds in solitude | Solo hikes under starless skies | Sketching characters from the void |
+
+**Minimalist design** — maximum impact, minimum noise.
+
+---
+
+### Contact
 
 <div align="center">
 
@@ -87,22 +95,8 @@ Crafting digital experiences from the shadows. Building web applications with pr
 
 </div>
 
-## Notes
-
-Believer in minimalistic yet impactful design. Always open to collaboration and new challenges. Currently exploring Python depths to expand technical horizons. Code style reflects philosophy: clean, efficient, purposeful.
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FallenTeen&color=black&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <h3>"Pain is inevitable, suffering is optional"</h3>
-</div>
-
----
-
-<div align="center">
-  <sub>From <a href="https://github.com/FallenTeen">Hanafi Dana Bastyan</a></sub>
+  <sub>From <a href="https://github.com/FallenTeen">Hanafi Dana Bastyan</a> — built in the dark.</sub>
 </div>
