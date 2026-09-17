@@ -8,90 +8,129 @@
 <p align="center"><i>"Pain is inevitable, suffering is optional."</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FallenTeen&color=black&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FallenTeen&color=grey&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Indonesia-black?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/GPA-3.89%2F4.00%20Cum%20Laude-black?style=flat-square" alt="GPA" />
 </p>
 
 ---
 
-### About
+### <img src="https://api.iconify.design/lucide/terminal.svg?color=%23888888" width="20" height="20" valign="middle"/>&nbsp; About
 
 ```typescript
 const developer = {
   name: "Hanafi Dana Bastyan",
-  location: "Indonesia",
+  location: "Purbalingga, Central Java, Indonesia",
   role: "Architect of Digital Void",
-  arsenal: ["PHP", "JavaScript", "UI/UX", "Frontend", "Python"],
-  currentlyExploring: "Python, backend architecture",
+  education: "B.Comp.Sc, Informatics — Universitas Amikom Purwokerto (Cum Laude)",
+  arsenal: ["PHP", "JavaScript", "Laravel", "React", "Flutter", "Python"],
+  currentlyExploring: "Machine Learning, clean backend architecture",
   creed: "Simplicity through darkness",
   seeking: ["Collaboration", "Knowledge", "Challenges"],
 };
 ```
 
-Crafting digital experiences from the shadows — building web applications with precision and minimal noise. Currently deepening my Python skills while keeping a firm grip on frontend territory.
+Crafting digital experiences from the shadows — building web and mobile applications with precision and minimal noise. Full stack developer with a research background (IEEE-published) and a parallel life in graphic design, music, and event production.
 
 ---
 
-### Arsenal
+### <img src="https://api.iconify.design/lucide/layers.svg?color=%23888888" width="20" height="20" valign="middle"/>&nbsp; Arsenal
+
+**Web & Full Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,py,html,css,react,laravel,nodejs,bootstrap,figma,xd&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,dart,flutter,html,css,bootstrap,mysql,nodejs,git&theme=dark" alt="Web & Full Stack Skills" />
+</div>
+
+**AI & Data**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,opencv,sklearn,arduino,kali&theme=dark" alt="AI & Data Skills" />
+</div>
+
+**Design & Multimedia**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,canva&theme=dark" alt="Design & Multimedia Skills" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-000000?style=for-the-badge" alt="Clip Studio Paint" />
 </div>
 
 ---
 
-### Currently
+### <img src="https://api.iconify.design/lucide/target.svg?color=%23888888" width="20" height="20" valign="middle"/>&nbsp; Currently
 
-- 🔭 Working on: sharpening backend fundamentals with **Python**
-- 🌱 Learning: clean architecture & API design
-- 🤝 Open to: collaboration, freelance work, and interesting problems
-- 💬 Ask me about: PHP/Laravel, React, or UI/UX in Figma
-
----
-
-### Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallenTeen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=FallenTeen&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenTeen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FallenTeen&theme=github-dark&hide_border=true" alt="Activity Graph" />
-</div>
+<img src="https://api.iconify.design/lucide/telescope.svg?color=%23888888" width="16" height="16" valign="middle"/>&nbsp; Working on: sharpening ML/backend fundamentals with **Python**
+<br/>
+<img src="https://api.iconify.design/lucide/sprout.svg?color=%23888888" width="16" height="16" valign="middle"/>&nbsp; Learning: clean architecture, API design & computer vision
+<br/>
+<img src="https://api.iconify.design/lucide/handshake.svg?color=%23888888" width="16" height="16" valign="middle"/>&nbsp; Open to: collaboration, freelance work, and interesting problems
+<br/>
+<img src="https://api.iconify.design/lucide/message-circle.svg?color=%23888888" width="16" height="16" valign="middle"/>&nbsp; Ask me about: PHP/Laravel, React, Flutter, or UI/UX in Figma
 
 ---
 
-### Trophies
+### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23888888" width="20" height="20" valign="middle"/>&nbsp; Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FallenTeen&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=FallenTeen&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=FallenTeen&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FallenTeen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/2b2b2b/FallenTeen" alt="Contribution Calendar" width="100%"/>
 </div>
 
 ---
 
-### Beyond the Code
+### <img src="https://api.iconify.design/lucide/trophy.svg?color=%23888888" width="20" height="20" valign="middle"/>&nbsp; Trophies
 
-| 🎵 Music | 🌙 Night Trails | ✎ Art |
-|:---:|:---:|:---:|
-| Crafting sounds in solitude | Solo hikes under starless skies | Sketching characters from the void |
+<div align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=FallenTeen&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</div>
 
-**Minimalist design** — maximum impact, minimum noise.
+<sub>Trophy card di-render lewat mirror komunitas — kalau sewaktu-waktu ikut down, ganti `github-profile-trophy-liard-delta` dengan mirror lain di <a href="https://github.com/ryo-ma/github-profile-trophy#trophy">daftar resmi</a>.</sub>
 
 ---
 
-### Contact
+### <img src="https://api.iconify.design/lucide/compass.svg?color=%23888888" width="20" height="20" valign="middle"/>&nbsp; Beyond the Code
+
+<table align="center">
+  <tr>
+    <th><img src="https://api.iconify.design/lucide/music.svg?color=%23888888" width="16" height="16" valign="middle"/>&nbsp; Music</th>
+    <th><img src="https://api.iconify.design/lucide/moon.svg?color=%23888888" width="16" height="16" valign="middle"/>&nbsp; Night Trails</th>
+    <th><img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23888888" width="16" height="16" valign="middle"/>&nbsp; Art</th>
+    <th><img src="https://api.iconify.design/lucide/camera.svg?color=%23888888" width="16" height="16" valign="middle"/>&nbsp; Photography</th>
+  </tr>
+  <tr>
+    <td align="center">Composing &amp; crafting sounds in solitude</td>
+    <td align="center">Solo hikes under starless skies</td>
+    <td align="center">Sketching characters from the void</td>
+    <td align="center">Assisting event &amp; concert coverage</td>
+  </tr>
+</table>
+
+**Minimalist design** — maximum impact, minimum noise. Also active in public relations and event logistics, from music festivals to international motorsport events.
+
+---
+
+### <img src="https://api.iconify.design/lucide/mail.svg?color=%23888888" width="20" height="20" valign="middle"/>&nbsp; Contact
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dansttyn_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hanafi.dana.bastyan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hanafi.bastyan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hdb4200/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlamingvlaming0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hdbastyan@gmail.com)
 
 </div>
 
