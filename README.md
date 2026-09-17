@@ -86,19 +86,15 @@ Crafting digital experiences from the shadows — building web and mobile applic
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FallenTeen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/2b2b2b/FallenTeen" alt="Contribution Calendar" width="100%"/>
-</div>
-
 ---
 
 ### <img src="https://api.iconify.design/lucide/trophy.svg?color=%23888888" width="20" height="20" valign="middle"/>&nbsp; Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=FallenTeen&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=FallenTeen&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
-<sub>Trophy card di-render lewat mirror komunitas — kalau sewaktu-waktu ikut down, ganti `github-profile-trophy-liard-delta` dengan mirror lain di <a href="https://github.com/ryo-ma/github-profile-trophy#trophy">daftar resmi</a>.</sub>
+<sub>Trophy card di-render lewat instance komunitas (<code>github-trophies.vercel.app</code>, fork independen dari <code>github-profile-trophy</code>) — kalau sewaktu-waktu ikut down, ganti dengan mirror lain di <a href="https://github.com/ryo-ma/github-profile-trophy#trophy">daftar resmi</a>.</sub>
 
 ---
 
@@ -128,7 +124,7 @@ Crafting digital experiences from the shadows — building web and mobile applic
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dansttyn_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hanafi.bastyan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hanafi.dana.bastyan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hdb4200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hdbastyan@gmail.com)
 
