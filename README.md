@@ -22,7 +22,7 @@ const developer = {
   name: "Hanafi Dana Bastyan",
   location: "Purbalingga, Central Java, Indonesia",
   role: "Architect of Digital Void",
-  education: "B.Comp.Sc, Informatics — Universitas Amikom Purwokerto (Cum Laude)",
+  education: "B.Comp.Sc, Informatics - Universitas Amikom Purwokerto (Cum Laude)",
   arsenal: ["PHP", "JavaScript", "Laravel", "React", "Flutter", "Python"],
   currentlyExploring: "Machine Learning, clean backend architecture",
   creed: "Simplicity through darkness",
